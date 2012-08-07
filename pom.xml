@@ -10,7 +10,7 @@
 
   <groupId>fm.last.commons</groupId>
   <artifactId>lastcommons-lang</artifactId>
-  <version>3.0.0</version>
+  <version>3.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>lastcommons-lang</name>
   <description>Last.fm common lang utilities</description>
