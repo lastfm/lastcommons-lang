@@ -3,7 +3,7 @@ Common utility classes used by some [Last.fm](http://www.last.fm) projects. We h
 
 #Start using
 You can [download](https://github.com/lastfm/lastcommons-lang/downloads) a JAR file or obtain lastcommons-lang from Maven Central using the following identifier:
-* [fm.last:lastcommons-lang:T.B.C](http://search.maven.org/#artifactdetails%7Cfm.last%7Clastcommons-lang%7CT.B.C%7Cjar)
+* [fm.last:lastcommons-lang:3.0.0](http://search.maven.org/#artifactdetails%7Cfm.last%7Clastcommons-lang%7C3.0.0%7Cjar)
 
 #Building
 This project uses the [Maven](http://maven.apache.org/) build system.
