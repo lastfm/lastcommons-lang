@@ -61,7 +61,7 @@ public class SafeStringBuilderTest {
     builder.append(new Float(0.9));
     String testNull = null;
     builder.append(testNull);
-    assertEquals("Test3;9;Wed Feb 01 11:32:54 GMT 2012;689;0.9;-", builder.toString());
+    assertEquals("Test3;9;" + testDate + ";689;0.9;-", builder.toString());
   }
 
   @Test
