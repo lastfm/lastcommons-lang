@@ -1,5 +1,9 @@
+TBA
+
+3.1.0 (2012-10-30)
+- Added DateRange for iterating through ranges of LocalDates.
+
 3.0.1 (2012-10-19)
-- Added DateRange for iterating through ranges of LocalDates
 - adding SafeStringBuilder
 
 3.0.0 (2012-08-07)
